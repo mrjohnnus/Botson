@@ -1,0 +1,24 @@
+{
+  "name": "botson",
+  "version": "1.0.0",
+  "description": "A discord bot that does stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrjohnnus/Botson.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "personal"
+  ],
+  "author": "Johnnus \\ <jpedrofa15@gmail.com/>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrjohnnus/Botson/issues"
+  },
+  "homepage": "https://github.com/mrjohnnus/Botson#readme"
+}
