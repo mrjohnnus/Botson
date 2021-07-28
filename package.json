@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mrjohnnus/Botson/issues"
   },
-  "homepage": "https://github.com/mrjohnnus/Botson#readme"
+  "homepage": "https://github.com/mrjohnnus/Botson#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }
