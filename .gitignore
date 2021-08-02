@@ -1,0 +1,4 @@
+#Archive types
+*.png
+# Modules Folder
+node_modules/
